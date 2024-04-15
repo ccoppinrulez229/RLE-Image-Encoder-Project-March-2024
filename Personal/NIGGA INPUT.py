@@ -1,0 +1,13 @@
+input()
+print("hello nigga! what's your name bitch ass nigga?")
+name=input("my bitchass name is ")
+print(name,"???\nthat's a dumbass name my nigga")
+print("how old are you my nigga?????")
+age=int(input("this year, i will be "))
+print("GOD DAMN NIGGA!!!!\nso let me get this straight my nigga.\nif I take your age and add 1000 to it\nyou will be",1000+age,"years old\nis this correct?",sep="...")
+answer=input()
+print("GOD DAMN NIGGA!")
+print(f"well it was terrible talking to you {name}, who just so happens to be {age} in 1000 years.\nkill yourself nigga.")
+print("oh...and by the way...")
+sneaky=name+" IS A STUPID HYIGGER"
+print(sneaky)

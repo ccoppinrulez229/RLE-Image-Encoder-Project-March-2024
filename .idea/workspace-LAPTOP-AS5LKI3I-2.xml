@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b73fb745-ebb1-4a88-a82c-7197b690e61c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2arvwMFcZpSVA2HS76HmiBGn9Ma" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stickman\OneDrive\PycharmProjects\Homework\HW3\testfiles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b73fb745-ebb1-4a88-a82c-7197b690e61c" name="Changes" comment="" />
+      <created>1705089749852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705089749852</updated>
+      <workItem from="1705089760152" duration="1710000" />
+      <workItem from="1705274912483" duration="676000" />
+      <workItem from="1705347023186" duration="1508000" />
+      <workItem from="1705348588195" duration="1928000" />
+      <workItem from="1705356065030" duration="783000" />
+      <workItem from="1705360129143" duration="96000" />
+      <workItem from="1705361190949" duration="2305000" />
+      <workItem from="1705445176453" duration="3419000" />
+      <workItem from="1705448797097" duration="296000" />
+      <workItem from="1705605427523" duration="4004000" />
+      <workItem from="1705609970558" duration="88000" />
+      <workItem from="1705615525298" duration="1075000" />
+      <workItem from="1705864115631" duration="83000" />
+      <workItem from="1705864221753" duration="596000" />
+      <workItem from="1706209075558" duration="6944000" />
+      <workItem from="1706384497236" duration="10483000" />
+      <workItem from="1706395174617" duration="114000" />
+      <workItem from="1706460572845" duration="664000" />
+      <workItem from="1706462356878" duration="691000" />
+      <workItem from="1706468170355" duration="87000" />
+      <workItem from="1706813829037" duration="1710000" />
+      <workItem from="1706815627247" duration="5471000" />
+      <workItem from="1706850541830" duration="470000" />
+      <workItem from="1706852570276" duration="447000" />
+      <workItem from="1707079175557" duration="8549000" />
+      <workItem from="1707087907462" duration="197000" />
+      <workItem from="1707163817746" duration="178000" />
+      <workItem from="1707164228366" duration="63000" />
+      <workItem from="1707194698308" duration="775000" />
+      <workItem from="1707418665648" duration="6559000" />
+      <workItem from="1707426607694" duration="9360000" />
+      <workItem from="1707436100314" duration="186000" />
+      <workItem from="1707436494554" duration="330000" />
+      <workItem from="1707443033902" duration="623000" />
+      <workItem from="1707446982390" duration="379000" />
+      <workItem from="1707449128721" duration="249000" />
+      <workItem from="1707497135953" duration="1761000" />
+      <workItem from="1707598608169" duration="6123000" />
+      <workItem from="1707606061487" duration="17000" />
+      <workItem from="1707606273205" duration="640000" />
+      <workItem from="1707607015869" duration="144000" />
+      <workItem from="1707670127629" duration="2221000" />
+      <workItem from="1707861001142" duration="3574000" />
+      <workItem from="1708114182588" duration="7489000" />
+      <workItem from="1708629632477" duration="7407000" />
+      <workItem from="1708637897729" duration="10227000" />
+      <workItem from="1708661540325" duration="1086000" />
+      <workItem from="1708664572825" duration="15000" />
+      <workItem from="1708664601133" duration="104000" />
+      <workItem from="1708872084520" duration="182000" />
+      <workItem from="1708918815710" duration="38000" />
+      <workItem from="1708918981404" duration="7177000" />
+      <workItem from="1708926241925" duration="190000" />
+      <workItem from="1708967073106" duration="987000" />
+      <workItem from="1709233830871" duration="6263000" />
+      <workItem from="1709244136799" duration="16830000" />
+      <workItem from="1709300317368" duration="5707000" />
+      <workItem from="1709306100669" duration="82000" />
+      <workItem from="1709319308801" duration="527000" />
+      <workItem from="1709319900245" duration="337000" />
+      <workItem from="1709349415013" duration="1182000" />
+      <workItem from="1709350805999" duration="1263000" />
+      <workItem from="1709352085171" duration="271000" />
+      <workItem from="1709535050501" duration="4167000" />
+      <workItem from="1709580776633" duration="260000" />
+      <workItem from="1709603661055" duration="3300000" />
+      <workItem from="1709607477655" duration="100000" />
+      <workItem from="1709669449779" duration="1779000" />
+      <workItem from="1709672040900" duration="957000" />
+      <workItem from="1709675537991" duration="1558000" />
+      <workItem from="1709699897799" duration="2122000" />
+      <workItem from="1709702192338" duration="230000" />
+      <workItem from="1709757717562" duration="2154000" />
+      <workItem from="1710163718748" duration="150000" />
+      <workItem from="1710268702656" duration="4061000" />
+      <workItem from="1710272901065" duration="567000" />
+      <workItem from="1710288544831" duration="6309000" />
+      <workItem from="1710295028273" duration="172000" />
+      <workItem from="1710465455708" duration="1046000" />
+      <workItem from="1710536873296" duration="544000" />
+      <workItem from="1710711177393" duration="2054000" />
+      <workItem from="1710792839768" duration="974000" />
+      <workItem from="1711044152614" duration="644000" />
+      <workItem from="1711044938570" duration="6749000" />
+      <workItem from="1711052836975" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cec_HW4_py$cec_HW4.coverage" NAME="cec_HW4 Coverage Results" MODIFIED="1710712271706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW3&amp;4" />
+    <SUITE FILE_PATH="coverage/final_grade_calculator_py$bruh.coverage" NAME="bruh Coverage Results" MODIFIED="1705448530873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/cec_Lab4_py$cec_Lab4.coverage" NAME="cec_Lab4 Coverage Results" MODIFIED="1707607078733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 4" />
+    <SUITE FILE_PATH="coverage/cec_Lab5A_py$main.coverage" NAME="main Coverage Results" MODIFIED="1708664680988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_C_py$cec_Lab2_C.coverage" NAME="cec_Lab2_C Coverage Results" MODIFIED="1706215937592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/cec_HW2_py$cec_Lab4.coverage" NAME="cec_Lab4 Coverage Results" MODIFIED="1707424453034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 4" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_C_py$cec_HW1.coverage" NAME="cec_HW1 Coverage Results" MODIFIED="1706394991424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_A_py$cec_Lab1_A.coverage" NAME="cec_Lab1_A Coverage Results" MODIFIED="1705864144771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/final_grade_calculator_py$main.coverage" NAME="main Coverage Results" MODIFIED="1705360211507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_Lab5B_py$main.coverage" NAME="main Coverage Results" MODIFIED="1709319738491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_nigga_round_2_py$Exam_1_Review_Part_2.coverage" NAME="Exam 1 Review Part 2 Coverage Results" MODIFIED="1708129008468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal" />
+    <SUITE FILE_PATH="coverage/cec_HW3A_py$cec_HW3B.coverage" NAME="cec_HW3B Coverage Results" MODIFIED="1709677089735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW3&amp;4" />
+    <SUITE FILE_PATH="coverage/cec_HW4_py$killing_myself.coverage" NAME="killing myself Coverage Results" MODIFIED="1710793719005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_A_py$cec_Lab1_C.coverage" NAME="cec_Lab1_C Coverage Results" MODIFIED="1705616593447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_C_py$cec_Lab2_A.coverage" NAME="cec_Lab2_A Coverage Results" MODIFIED="1706216046987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_A_py$main.coverage" NAME="main Coverage Results" MODIFIED="1705864139443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_HW3B_py$cec_HW3B.coverage" NAME="cec_HW3B Coverage Results" MODIFIED="1710163827391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW3&amp;4" />
+    <SUITE FILE_PATH="coverage/python_nigga_round_2_py$python_nigga_round_2.coverage" NAME="python nigga round 2 Coverage Results" MODIFIED="1707672354461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal" />
+    <SUITE FILE_PATH="coverage/NIGGA_py$main.coverage" NAME="main Coverage Results" MODIFIED="1705347121241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_HW3A_py$main.coverage" NAME="main Coverage Results" MODIFIED="1709234473007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_Lab5A_py$cec_Lab5A.coverage" NAME="cec_Lab5A Coverage Results" MODIFIED="1708664684631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 5" />
+    <SUITE FILE_PATH="coverage/NIGGA_INPUT_py$lab1_activityC.coverage" NAME="lab1_activityC Coverage Results" MODIFIED="1705609424573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/NIGGA_INPUT_py$main.coverage" NAME="main Coverage Results" MODIFIED="1705605966996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_HW3A_py$cec_HW3A.coverage" NAME="cec_HW3A Coverage Results" MODIFIED="1709673198918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW3&amp;4" />
+    <SUITE FILE_PATH="coverage/python_nigga_round_2_py$cec_Lab5A.coverage" NAME="cec_Lab5A Coverage Results" MODIFIED="1708636117538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 5" />
+    <SUITE FILE_PATH="coverage/cec_Lab3_py$main.coverage" NAME="main Coverage Results" MODIFIED="1706850581985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_Lab3_py$cec_Lab3.coverage" NAME="cec_Lab3 Coverage Results" MODIFIED="1706853008359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 3" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_A_py$cec_Lab1_B.coverage" NAME="cec_Lab1_B Coverage Results" MODIFIED="1705616554170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$NIGGA.coverage" NAME="NIGGA Coverage Results" MODIFIED="1705090885488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NIGGA_INPUT_py$NIGGA_INPUT.coverage" NAME="NIGGA INPUT Coverage Results" MODIFIED="1705449071047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_Lab3_py$cec_HW2.coverage" NAME="cec_HW2 Coverage Results" MODIFIED="1707087883033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW2" />
+    <SUITE FILE_PATH="coverage/python_nigga_round_2_py$Exam_1_Review.coverage" NAME="Exam 1 Review Coverage Results" MODIFIED="1707865701071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_C_py$main.coverage" NAME="main Coverage Results" MODIFIED="1706384923720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cowsay_py$cowsay.coverage" NAME="cowsay Coverage Results" MODIFIED="1711053176658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_Lab5B_py$cec_Lab5B.coverage" NAME="cec_Lab5B Coverage Results" MODIFIED="1709350554736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 5" />
+    <SUITE FILE_PATH="coverage/cec_HW2_py$cec_HW_3A_.coverage" NAME="cec_HW{3A} Coverage Results" MODIFIED="1708926026044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW3" />
+    <SUITE FILE_PATH="coverage/NIGGA_py$NIGGA.coverage" NAME="NIGGA Coverage Results" MODIFIED="1705280873454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cowsay_py$cow.coverage" NAME="cow Coverage Results" MODIFIED="1711049016202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 6" />
+    <SUITE FILE_PATH="coverage/NIGGA_py$final_grade_calculator.coverage" NAME="final grade calculator Coverage Results" MODIFIED="1705348482997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NIGGA_INPUT_py$lab1.coverage" NAME="lab1 Coverage Results" MODIFIED="1705609128953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/cec_HW2_py$main.coverage" NAME="main Coverage Results" MODIFIED="1707419988663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_HW2_py$cec_HW3A.coverage" NAME="cec_HW3A Coverage Results" MODIFIED="1708926196207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW3" />
+    <SUITE FILE_PATH="coverage/cec_Lab4_py$main.coverage" NAME="main Coverage Results" MODIFIED="1707607074257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_HW3B_py$list_tests_n_shi.coverage" NAME="list tests n shi Coverage Results" MODIFIED="1709670974559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Personal" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1705089963437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NIGGA_INPUT_py$lab1_activityB.coverage" NAME="lab1_activityB Coverage Results" MODIFIED="1705609295484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/cec_HW1_py$cec_Lab3.coverage" NAME="cec_Lab3 Coverage Results" MODIFIED="1706815209941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 3" />
+    <SUITE FILE_PATH="coverage/final_grade_calculator_py$final_grade_calculator.coverage" NAME="final grade calculator Coverage Results" MODIFIED="1705362703585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_HW3A_py$cec_Lab5B.coverage" NAME="cec_Lab5B Coverage Results" MODIFIED="1709240124211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 5" />
+    <SUITE FILE_PATH="coverage/final_grade_calculator_py$NIGGA.coverage" NAME="NIGGA Coverage Results" MODIFIED="1705361924330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_HW1_py$main.coverage" NAME="main Coverage Results" MODIFIED="1706814829530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cec_HW2_py$console_gfx.coverage" NAME="console_gfx Coverage Results" MODIFIED="1708920316114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW3" />
+    <SUITE FILE_PATH="coverage/cec_Lab1_C_py$cec_Lab2_B.coverage" NAME="cec_Lab2_B Coverage Results" MODIFIED="1706215992415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs" />
+    <SUITE FILE_PATH="coverage/cec_HW1_py$cec_HW1.coverage" NAME="cec_HW1 Coverage Results" MODIFIED="1706462441486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework" />
+    <SUITE FILE_PATH="coverage/cec_HW3B_py$main.coverage" NAME="main Coverage Results" MODIFIED="1709580892778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_nigga_round_2_py$cec_Lab4.coverage" NAME="cec_Lab4 Coverage Results" MODIFIED="1707672128539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labs/Lab 4" />
+    <SUITE FILE_PATH="coverage/cec_HW2_py$cec_HW2.coverage" NAME="cec_HW2 Coverage Results" MODIFIED="1707195327315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/HW2" />
+  </component>
+</project>
