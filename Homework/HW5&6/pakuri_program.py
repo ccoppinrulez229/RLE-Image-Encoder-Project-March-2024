@@ -2,12 +2,10 @@ from pakudex import Pakudex #imports Pakudex class from pakudex.py
 def main():
     print("Welcome to Pakudex: Tracker Extraordinaire!")
     capacity=input("Enter max capacity of the Pakudex: ") #capacity variable is initialized based on user input
-    while capacity.isdigit()==False: #checks to see if the capacity is an actual number. Will continue looping until this is the case.
+    while capacity.isdigit()==False or int(capacity)<1: #checks to see if the capacity is an actual number. Will continue looping until this is the case.
         print("Please enter a valid size.")
         capacity = input("Enter max capacity of the Pakudex: ")
-    while int(capacity)<1: #after a valid number is put in, checks to see if the integer conversion is at least 1.
-        print("Please enter a valid size.")
-        capacity = input("Enter max capacity of the Pakudex: ")
+
     print("The Pakudex can hold",capacity,"species of Pakuri.")
     pakudex=Pakudex(capacity) #initializes pakudex object with specific capacity
 
